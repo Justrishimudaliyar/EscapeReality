@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Ground : MonoBehaviour
 {
-    public Player player;
+    Player player;
     public float groundHeight;
     public float groundRight;
     public float screenRight;
@@ -12,16 +12,15 @@ public class Ground : MonoBehaviour
 
     bool didGenerateGround = false;
 
+    public Obstacle boxTemplate;
+
     private void Awake()
     {
+        player = GameObject.Find("Player").GetComponent<Player>();
+
         collider = GetComponent<BoxCollider2D>();
         groundHeight = transform.position.y + (collider.size.y / 2);
         screenRight = Camera.main.transform.position.x * 2;
-    }
-
-    void Update()
-    {
-
     }
 
     private void FixedUpdate()
@@ -83,5 +82,18 @@ public class Ground : MonoBehaviour
 
         Ground goGround = go.GetComponent<Ground>();
         goGround.groundHeight = go.transform.position.y + (goCollider.size.y / 2);
+
+        int obstacleNum = Random.Range(0, 4);
+        for (int i = 0; i < obstacleNum; i++)
+        {
+            GameObject box = Instantiate(boxTemplate.gameObject);
+            float y = goGround.groundHeight;
+            float halfWidth = goCollider.size.x / 2 - 1;
+            float left = go.transform.position.x - halfWidth;
+            float right = go.transform.position.x + halfWidth;
+            float x = Random.Range(left, right);
+            Vector2 boxPos = new Vector2(x, y);
+            box.transform.position = boxPos;
+        }
     }
 } 
