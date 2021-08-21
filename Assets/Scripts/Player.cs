@@ -23,6 +23,7 @@ public class Player : MonoBehaviour
 
     public bool isDead = false;
 
+    public Animator animator;
     public LayerMask groundLayerMask;
     public LayerMask obstacleLayerMask;
 
@@ -32,6 +33,7 @@ public class Player : MonoBehaviour
         float groundDistance = Mathf.Abs(pos.y - groundHeight);
         if(isGrounded || groundDistance <= jumpGroundThreshold)
         {
+            
             if(Input.GetKeyDown(KeyCode.Space))
             {
                 isGrounded = false;
@@ -63,6 +65,7 @@ public class Player : MonoBehaviour
 
         if (!isGrounded)
         {
+            animator.SetBool("Jump", true);
             if (isHoldingJump)
             {
                 holdJumpTimer += Time.fixedDeltaTime;
@@ -120,6 +123,7 @@ public class Player : MonoBehaviour
 
         if (isGrounded)
         {
+            animator.SetBool("Jump", false);
             float velocityRatio = velocity.x / maxXVelocity;
             acceleration = maxAcceleration * (1 - velocityRatio);
             velocity.x += acceleration * Time.fixedDeltaTime;
