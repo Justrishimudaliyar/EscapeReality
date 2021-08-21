@@ -2722,7 +2722,7 @@ GameObject:
   - component: {fileID: 1806505054}
   - component: {fileID: 1806505053}
   - component: {fileID: 1806505051}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: GroundTest
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2965,6 +2965,12 @@ MonoBehaviour:
   holdJumpTimer: 0
   jumpGroundThreshold: 1
   isDead: 0
+  groundLayerMask:
+    serializedVersion: 2
+    m_Bits: 64
+  obstacleLayerMask:
+    serializedVersion: 2
+    m_Bits: 128
 --- !u!212 &1908295595
 SpriteRenderer:
   m_ObjectHideFlags: 0
