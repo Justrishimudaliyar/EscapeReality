@@ -1,0 +1,2472 @@
+fileFormatVersion: 2
+guid: 2dfe809e730dc4c45994d4752e5cd23f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -146430420880884603
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_0
+  - first:
+      213: -3564424836554471390
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_1
+  - first:
+      213: 5841553274277582134
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_2
+  - first:
+      213: 7356237231457738986
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_3
+  - first:
+      213: -6318512567570543188
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_4
+  - first:
+      213: -975689413004352934
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_5
+  - first:
+      213: 4185920334034117013
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_6
+  - first:
+      213: -5632387396981409424
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_7
+  - first:
+      213: 5799667403121050708
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_8
+  - first:
+      213: 5212088649002374851
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_9
+  - first:
+      213: 6925945505299035256
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_10
+  - first:
+      213: 1551954770916454497
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_11
+  - first:
+      213: -9140007654051070916
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_12
+  - first:
+      213: 7187153292159872057
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_13
+  - first:
+      213: -5771107008387869694
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_14
+  - first:
+      213: -6551284481116209691
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_15
+  - first:
+      213: 6699081948700361632
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_16
+  - first:
+      213: 4340513398697500989
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_17
+  - first:
+      213: 4838152899263111638
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_18
+  - first:
+      213: 485418235809451592
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_19
+  - first:
+      213: 6347644307491131874
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_20
+  - first:
+      213: -8853026316183566198
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_21
+  - first:
+      213: 8997094005400903107
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_22
+  - first:
+      213: 7685505505298251279
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_23
+  - first:
+      213: -6615435257253090071
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_24
+  - first:
+      213: -2391085080930439093
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_25
+  - first:
+      213: -3136042533013423207
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_26
+  - first:
+      213: 6416648184831912382
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_27
+  - first:
+      213: -3900263687180310135
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_28
+  - first:
+      213: -8607274719859715855
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_29
+  - first:
+      213: 3634226841844187106
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_30
+  - first:
+      213: 4465144899792700731
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_31
+  - first:
+      213: -4246021473421845496
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_32
+  - first:
+      213: 3671406189018012568
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_33
+  - first:
+      213: -5307433494642087044
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_34
+  - first:
+      213: 7971421842512730949
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_35
+  - first:
+      213: 7617500247048305331
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_36
+  - first:
+      213: 554881956320217855
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_37
+  - first:
+      213: -3644220220719579447
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_38
+  - first:
+      213: 8330409333485745203
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_39
+  - first:
+      213: -3557763675990451471
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_40
+  - first:
+      213: 2706120498367270933
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_41
+  - first:
+      213: -4719315844651868781
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_42
+  - first:
+      213: 2121787248370460100
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_43
+  - first:
+      213: 8875874278485128582
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_44
+  - first:
+      213: -589347561884789763
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_45
+  - first:
+      213: 8594208607353127875
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_46
+  - first:
+      213: 5628604797636337489
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_47
+  - first:
+      213: 6806401064927318947
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_48
+  - first:
+      213: -4289387965145800108
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_49
+  - first:
+      213: -5970909639634670705
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_50
+  - first:
+      213: -8709050741083725831
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_51
+  - first:
+      213: -5219134823578607087
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_52
+  - first:
+      213: 8378874054868985834
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_53
+  - first:
+      213: 437755905806015557
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_54
+  - first:
+      213: -8015518976062688410
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_55
+  - first:
+      213: -580159174809954573
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_56
+  - first:
+      213: 6564245477838487423
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_57
+  - first:
+      213: -1558726969633627548
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_58
+  - first:
+      213: 2604777457580413354
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_59
+  - first:
+      213: 888712736901638086
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_60
+  - first:
+      213: 5566342711230896100
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_61
+  - first:
+      213: -1124141020470062188
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_62
+  - first:
+      213: -5778332789790045156
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_63
+  - first:
+      213: 2337586997902070491
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_64
+  - first:
+      213: -4063868244214776297
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_65
+  - first:
+      213: -7003793954113975892
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_66
+  - first:
+      213: 2793437273876154150
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_67
+  - first:
+      213: 3345081317675595768
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_68
+  - first:
+      213: -8918790991299055228
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_69
+  - first:
+      213: -5720300087625946519
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_70
+  - first:
+      213: 7300542653826501897
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_71
+  - first:
+      213: -4235663493600557861
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_72
+  - first:
+      213: 2604541358001095681
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_73
+  - first:
+      213: -4819708568186428890
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_74
+  - first:
+      213: -3082284570896933713
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_75
+  - first:
+      213: 7718637977022420724
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_76
+  - first:
+      213: -2043297439630271231
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_77
+  - first:
+      213: 4005480284491052859
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_78
+  - first:
+      213: 1778187899045208939
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_79
+  - first:
+      213: 7212093863764590345
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_80
+  - first:
+      213: 7018327061781510825
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_81
+  - first:
+      213: -1071789715420713204
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_82
+  - first:
+      213: -7093075665225805748
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_83
+  - first:
+      213: 7108454192727403123
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_84
+  - first:
+      213: 3221171888502318121
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_85
+  - first:
+      213: -5009277105463037686
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_86
+  - first:
+      213: 5359653660201058156
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_87
+  - first:
+      213: -8787047635605399104
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_88
+  - first:
+      213: 6934968532550572837
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_89
+  - first:
+      213: -572893963862095302
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_90
+  - first:
+      213: 32293266013792961
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_91
+  - first:
+      213: -2891695591995663592
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_92
+  - first:
+      213: 7676703085115252050
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_93
+  - first:
+      213: -6067235897358565050
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_94
+  - first:
+      213: 8899305888193898612
+    second: PC Computer - Diablo Diablo Hellfire - Fireman Run_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 679.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c751bde46c7fdf0800000000000000
+      internalID: -146430420880884603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 679.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228479c0f7e988ec0800000000000000
+      internalID: -3564424836554471390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 679.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635d5d9c0cd511150800000000000000
+      internalID: 5841553274277582134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_3
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 679.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0aa8879ca961660800000000000000
+      internalID: 7356237231457738986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 679.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadcd15fb422058a0800000000000000
+      internalID: -6318512567570543188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_5
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 679.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5224c6f5a7a572f0800000000000000
+      internalID: -975689413004352934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_6
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 679.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5912038ad50671a30800000000000000
+      internalID: 4185920334034117013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_7
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 679.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079398d018db5d1b0800000000000000
+      internalID: -5632387396981409424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_8
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 679.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454417276ce8c7050800000000000000
+      internalID: 5799667403121050708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_9
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 679.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6d1ade20f055840800000000000000
+      internalID: 5212088649002374851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_10
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 679.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874ff09edb6ed1060800000000000000
+      internalID: 6925945505299035256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_11
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 679.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160b2fb34a6a98510800000000000000
+      internalID: 1551954770916454497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 582.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c3fe7e67b282180800000000000000
+      internalID: -9140007654051070916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 582.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ce77d07d5edb360800000000000000
+      internalID: 7187153292159872057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_14
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 582.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2041644a0c8e8efa0800000000000000
+      internalID: -5771107008387869694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_15
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 582.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edf98089792515a0800000000000000
+      internalID: -6551284481116209691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_16
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 582.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a344810a8be7fc50800000000000000
+      internalID: 6699081948700361632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_17
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 582.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31203860f99c3c30800000000000000
+      internalID: 4340513398697500989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_18
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 582.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1aa91ad62942340800000000000000
+      internalID: 4838152899263111638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_19
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 582.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e4be8405d8cb600800000000000000
+      internalID: 485418235809451592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_20
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 582.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e11a8ccddc571850800000000000000
+      internalID: 6347644307491131874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_21
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 582.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8881b4887bb32580800000000000000
+      internalID: -8853026316183566198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_22
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 582.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd97ba44591cdc70800000000000000
+      internalID: 8997094005400903107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_23
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 582.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e7c9a998668aa60800000000000000
+      internalID: 7685505505298251279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 485.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eca5d00fa04134a0800000000000000
+      internalID: -6615435257253090071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 485.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40b76399c821ded0800000000000000
+      internalID: -2391085080930439093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_26
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 485.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bf7338ee98a74d0800000000000000
+      internalID: -3136042533013423207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_27
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 485.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9af89f6838c0950800000000000000
+      internalID: 6416648184831912382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_28
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 485.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989234b47da7fd9c0800000000000000
+      internalID: -3900263687180310135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_29
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 485.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0df8ede31dc8880800000000000000
+      internalID: -8607274719859715855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_30
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 485.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efff45ce0e5f6230800000000000000
+      internalID: 3634226841844187106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_31
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 485.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b358ac601a167fd30800000000000000
+      internalID: 4465144899792700731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_32
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 485.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c920067f91315c0800000000000000
+      internalID: -4246021473421845496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_33
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 485.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bd69a1a7473f230800000000000000
+      internalID: 3671406189018012568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_34
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 485.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b29da4b553856b0800000000000000
+      internalID: -5307433494642087044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_35
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 485.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bd2cd6eed20ae60800000000000000
+      internalID: 7971421842512730949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bab3cd8d1cc6b960800000000000000
+      internalID: 7617500247048305331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_37
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 388.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa8dba033653b700800000000000000
+      internalID: 554881956320217855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_38
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 388.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ceb6b464012d6dc0800000000000000
+      internalID: -3644220220719579447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_39
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 388.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3343404072f8b9370800000000000000
+      internalID: 8330409333485745203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_40
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 388.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa1dc959c840aec0800000000000000
+      internalID: -3557763675990451471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_41
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 388.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510959071421e8520800000000000000
+      internalID: 2706120498367270933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_42
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 388.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d17a84e3f918eb0800000000000000
+      internalID: -4719315844651868781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_43
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 388.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5231cb24a127d10800000000000000
+      internalID: 2121787248370460100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_44
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 388.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685f12041a07d2b70800000000000000
+      internalID: 8875874278485128582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_45
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 388.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df35d94d38732d7f0800000000000000
+      internalID: -589347561884789763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_46
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 388.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c343eeb133c44770800000000000000
+      internalID: 8594208607353127875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_47
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 388.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f5c28ed32dc1e40800000000000000
+      internalID: 5628604797636337489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a355d9e4b1357e50800000000000000
+      internalID: 6806401064927318947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_49
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 291.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45226a13f580974c0800000000000000
+      internalID: -4289387965145800108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_50
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 291.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bae976151132da0800000000000000
+      internalID: -5970909639634670705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_51
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 291.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff1ad65e7c332780800000000000000
+      internalID: -8709050741083725831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_52
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 291.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112e9b5b788e197b0800000000000000
+      internalID: -5219134823578607087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_53
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 291.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7e33a4f8db74470800000000000000
+      internalID: 8378874054868985834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_54
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 291.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c95ef4da8331600800000000000000
+      internalID: 437755905806015557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_55
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 291.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663716595f723c090800000000000000
+      internalID: -8015518976062688410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_56
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 291.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6d448ed4cd2f7f0800000000000000
+      internalID: -580159174809954573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_57
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 291.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ff605bb72e81b50800000000000000
+      internalID: 6564245477838487423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_58
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 291.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462aa21641a4e5ae0800000000000000
+      internalID: -1558726969633627548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_59
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 291.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa196060c47062420800000000000000
+      internalID: 2604777457580413354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7236e8687555c00800000000000000
+      internalID: 888712736901638086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_61
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 194.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e79001443f9f3d40800000000000000
+      internalID: 5566342711230896100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_62
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 194.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493df65a2bf3660f0800000000000000
+      internalID: -1124141020470062188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_63
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 194.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c829e41fc3fcfa0800000000000000
+      internalID: -5778332789790045156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_64
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 194.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd256815df6c07020800000000000000
+      internalID: 2337586997902070491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_65
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 194.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e7699fc5d3a97c0800000000000000
+      internalID: -4063868244214776297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_66
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 194.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca90205a1868dce90800000000000000
+      internalID: -7003793954113975892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_67
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 194.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62749bb766844c620800000000000000
+      internalID: 2793437273876154150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_68
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 194.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f779d44cbd1c6e20800000000000000
+      internalID: 3345081317675595768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_69
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 194.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4817aa1e8d61a3480800000000000000
+      internalID: -8918790991299055228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_70
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 194.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a6b64b0696d90b0800000000000000
+      internalID: -5720300087625946519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_71
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 194.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d8aec1ddcb05560800000000000000
+      internalID: 7300542653826501897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd449db7e76e735c0800000000000000
+      internalID: -4235663493600557861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_73
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 97.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104087ec090352420800000000000000
+      internalID: 2604541358001095681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_74
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 97.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6226758d794fc1db0800000000000000
+      internalID: -4819708568186428890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_75
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 97.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac550f63868935d0800000000000000
+      internalID: -3082284570896933713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_76
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 97.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6d242585c1e1b60800000000000000
+      internalID: 7718637977022420724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_77
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 97.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d5f54fdcfb4a3e0800000000000000
+      internalID: -2043297439630271231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_78
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 97.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b377be7c813569730800000000000000
+      internalID: 4005480284491052859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_79
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 97.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63ec7219746da810800000000000000
+      internalID: 1778187899045208939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_80
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 97.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f76746821861460800000000000000
+      internalID: 7212093863764590345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_81
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 97.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa7ffa274b166160800000000000000
+      internalID: 7018327061781510825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_82
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 97.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f6e62beec3021f0800000000000000
+      internalID: -1071789715420713204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_83
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 97.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c409f316345509d90800000000000000
+      internalID: -7093075665225805748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a27a31d6d46a260800000000000000
+      internalID: 7108454192727403123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_85
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924a7ae14c6e3bc20800000000000000
+      internalID: 3221171888502318121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_86
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01f06b43097b7ab0800000000000000
+      internalID: -5009277105463037686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_87
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ff7677b90516a40800000000000000
+      internalID: 5359653660201058156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_88
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9dd4f2bb22e0680800000000000000
+      internalID: -8787047635605399104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_89
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b50372325fd3060800000000000000
+      internalID: 6934968532550572837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_90
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 0.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ac806a9fbac08f0800000000000000
+      internalID: -572893963862095302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_91
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 0.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1caa369ed8ab27000800000000000000
+      internalID: 32293266013792961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_92
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 0.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b19801e22aed7d0800000000000000
+      internalID: -2891695591995663592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_93
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 0.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d907278c0298a60800000000000000
+      internalID: 7676703085115252050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_94
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 0.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641c171d819dccba0800000000000000
+      internalID: -6067235897358565050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Diablo Diablo Hellfire - Fireman Run_95
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 0.875
+        width: 97.083336
+        height: 97.125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478e6550e8fa08b70800000000000000
+      internalID: 8899305888193898612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
