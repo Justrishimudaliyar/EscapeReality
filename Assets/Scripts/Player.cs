@@ -36,6 +36,7 @@ public class Player : MonoBehaviour
             
             if(Input.GetKeyDown(KeyCode.Space))
             {
+                SoundManager.PlaySFX(SoundManager.Sound.Jump);
                 isGrounded = false;
                 velocity.y = jumpVelocity;
                 isHoldingJump = true;
@@ -95,6 +96,7 @@ public class Player : MonoBehaviour
                     {
                         groundHeight = ground.groundHeight;
                         pos.y = groundHeight;
+                        SoundManager.PlaySFX(SoundManager.Sound.Land);
                         velocity.y = 0;
                         isGrounded = true;
                     }
@@ -170,8 +172,19 @@ public class Player : MonoBehaviour
     }
     void hitObstacle(Obstacle obstacle)
     {
+        SoundManager.PlaySFX(SoundManager.Sound.Hurt);
         Destroy(obstacle.gameObject);
         velocity.x *= 0.7f;
+    }
+
+    void footStep1()
+    {
+        SoundManager.PlaySFX(SoundManager.Sound.Footstep1);
+    }
+
+    void footStep2()
+    {
+        SoundManager.PlaySFX(SoundManager.Sound.Footstep2);
     }
 
 }

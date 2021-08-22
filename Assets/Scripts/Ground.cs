@@ -8,7 +8,7 @@ public class Ground : MonoBehaviour
     public float groundHeight;
     public float groundRight;
     public float screenRight;
-    BoxCollider2D collider;
+    BoxCollider2D collider1;
 
     bool didGenerateGround = false;
 
@@ -18,8 +18,8 @@ public class Ground : MonoBehaviour
     {
         player = GameObject.Find("Player").GetComponent<Player>();
 
-        collider = GetComponent<BoxCollider2D>();
-        groundHeight = transform.position.y + (collider.size.y / 2);
+        collider1 = GetComponent<BoxCollider2D>();
+        groundHeight = transform.position.y + (collider1.size.y / 2);
         screenRight = Camera.main.transform.position.x * 2;
     }
 
@@ -29,7 +29,7 @@ public class Ground : MonoBehaviour
         pos.x -= player.velocity.x * Time.fixedDeltaTime;
 
 
-        groundRight = transform.position.x + (collider.size.x / 2);
+        groundRight = transform.position.x + (collider1.size.x / 2);
 
         if (groundRight < 0)
         {
@@ -65,8 +65,8 @@ public class Ground : MonoBehaviour
         float actualY = Random.Range(minY, maxY);
 
         pos.y = actualY - goCollider.size.y / 2;
-        if (pos.y > 2.7f)
-            pos.y = 2.7f;
+        if (pos.y > 1.7f)
+            pos.y = 1.7f;
 
         float t1 = t + player.maxHoldJumpTime;
         float t2 = Mathf.Sqrt((2.0f * (maxY - actualY)) / -player.gravity);
