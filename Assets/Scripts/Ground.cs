@@ -83,7 +83,7 @@ public class Ground : MonoBehaviour
         Ground goGround = go.GetComponent<Ground>();
         goGround.groundHeight = go.transform.position.y + (goCollider.size.y / 2);
 
-        int obstacleNum = Random.Range(0, 4);
+        int obstacleNum = Random.Range(0, 2);
         for (int i = 0; i < obstacleNum; i++)
         {
             GameObject box = Instantiate(boxTemplate.gameObject);

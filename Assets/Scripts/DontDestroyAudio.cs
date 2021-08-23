@@ -15,7 +15,11 @@ public class DontDestroyAudio : MonoBehaviour
         }
         else
         {
-            Destroy(gameObject);
+            DestroyManager();
         }
+    }
+    public void DestroyManager()
+    {
+        Destroy(gameObject);
     }
 }

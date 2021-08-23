@@ -36,6 +36,7 @@ public class UIController : MonoBehaviour
     public void Quit()
     {
         SceneManager.LoadScene("Menu");
+        DontDestroyAudio.Instance.DestroyManager();
     }
     public void Retry()
     {

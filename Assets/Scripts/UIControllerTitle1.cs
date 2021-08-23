@@ -3,16 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class UIControllerTitle : MonoBehaviour
+public class UIControllerTitle1 : MonoBehaviour
 {
     public void play()
     {
-        SceneManager.LoadScene("IntroScene");
+        SceneManager.LoadScene("SampleScene");
         Time.timeScale = 1f;
-    }
-
-    public void quit()
-    {
-        Application.Quit();
     }
 }

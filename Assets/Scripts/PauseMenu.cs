@@ -5,8 +5,10 @@ using UnityEngine.SceneManagement;
 
 public class PauseMenu : MonoBehaviour
 {
-    [SerializeField] GameObject pauseMenu;
+    bool pressedOnce;
 
+    [SerializeField] GameObject pauseMenu;
+ 
     public void Pause()
     {
         pauseMenu.SetActive(true);
